@@ -17,4 +17,4 @@ cd bot
 python bot.py
 ```
 
-Бот работает с базой данных SQLite. Для открытия такой базы можно использовать программу [DB Browser for SQLite](https://sqlitebrowser.org/). Путь к базе данных ```instance/economic.db```
+Бот работает с базой данных SQLite. Для открытия такой базы можно использовать программу [DB Browser for SQLite](https://sqlitebrowser.org/). Путь к базе данных ```instance/economic.db```(файл появиться автоматически после запуска API)
